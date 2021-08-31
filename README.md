@@ -25,4 +25,4 @@ Created by [Little Workshop](http://www.littleworkshop.fr):
 * Guillaume Lecollinet - [@glecollinet](http://twitter.com/glecollinet)
 * Guillaume Lecollinet - [@glecollinet](http://twitter.com/glecollinet)
 
-[![Run on Repl.it](https://repl.it/badge/github/mozilla/BrowserQuest)](https://repl.it/github/mozilla/BrowserQuest)
+[![Run on Repl.it](https://repl.it/badge/github/catdogmatforks/BrowserQuest/)](https://repl.it/github/catdogmatforks/BrowserQuest/)
